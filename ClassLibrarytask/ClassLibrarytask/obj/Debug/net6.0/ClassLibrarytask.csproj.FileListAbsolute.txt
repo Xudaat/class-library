@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Desktop\class Library\ClassLibrarytask\ClassLibrarytask\bin\Debug\net6.0\ClassLibrarytask.deps.json
+C:\Users\User\OneDrive\Desktop\class Library\ClassLibrarytask\ClassLibrarytask\bin\Debug\net6.0\ClassLibrarytask.dll
+C:\Users\User\OneDrive\Desktop\class Library\ClassLibrarytask\ClassLibrarytask\bin\Debug\net6.0\ClassLibrarytask.pdb
+C:\Users\User\OneDrive\Desktop\class Library\ClassLibrarytask\ClassLibrarytask\obj\Debug\net6.0\ClassLibrarytask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\class Library\ClassLibrarytask\ClassLibrarytask\obj\Debug\net6.0\ClassLibrarytask.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\class Library\ClassLibrarytask\ClassLibrarytask\obj\Debug\net6.0\ClassLibrarytask.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\class Library\ClassLibrarytask\ClassLibrarytask\obj\Debug\net6.0\ClassLibrarytask.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\class Library\ClassLibrarytask\ClassLibrarytask\obj\Debug\net6.0\ClassLibrarytask.dll
+C:\Users\User\OneDrive\Desktop\class Library\ClassLibrarytask\ClassLibrarytask\obj\Debug\net6.0\refint\ClassLibrarytask.dll
+C:\Users\User\OneDrive\Desktop\class Library\ClassLibrarytask\ClassLibrarytask\obj\Debug\net6.0\ClassLibrarytask.pdb
+C:\Users\User\OneDrive\Desktop\class Library\ClassLibrarytask\ClassLibrarytask\obj\Debug\net6.0\ref\ClassLibrarytask.dll

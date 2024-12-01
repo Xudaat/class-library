@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\ClassLibrarytask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1663D4A-A705-45E6-82DA-E9085CD16FF4}|List\\List.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\classlibrarytask\\list\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1663D4A-A705-45E6-82DA-E9085CD16FF4}|List\\List.csproj|solutionrelative:list\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1663D4A-A705-45E6-82DA-E9085CD16FF4}|List\\List.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\classlibrarytask\\list\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1663D4A-A705-45E6-82DA-E9085CD16FF4}|List\\List.csproj|solutionrelative:list\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894EC636-32D9-4E6D-8284-8DD46E407755}|ClassLibrarytask\\ClassLibrarytask.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\classlibrarytask\\classlibrarytask\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894EC636-32D9-4E6D-8284-8DD46E407755}|ClassLibrarytask\\ClassLibrarytask.csproj|solutionrelative:classlibrarytask\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1663D4A-A705-45E6-82DA-E9085CD16FF4}|List\\List.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\classlibrarytask\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1663D4A-A705-45E6-82DA-E9085CD16FF4}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\ClassLibrarytask\\List\\Library.cs",
+              "RelativeDocumentMoniker": "List\\Library.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\ClassLibrarytask\\List\\Library.cs",
+              "RelativeToolTip": "List\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:41:08.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\ClassLibrarytask\\List\\Book.cs",
+              "RelativeDocumentMoniker": "List\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\ClassLibrarytask\\List\\Book.cs",
+              "RelativeToolTip": "List\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:40:54.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\ClassLibrarytask\\List\\Program.cs",
+              "RelativeDocumentMoniker": "List\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\ClassLibrarytask\\List\\Program.cs",
+              "RelativeToolTip": "List\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:37:32.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\ClassLibrarytask\\ClassLibrarytask\\Helper.cs",
+              "RelativeDocumentMoniker": "ClassLibrarytask\\Helper.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\ClassLibrarytask\\ClassLibrarytask\\Helper.cs",
+              "RelativeToolTip": "ClassLibrarytask\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:36:28.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
